@@ -26,7 +26,7 @@ AI agents and autonomous systems built for Solana.
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
-
+- [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
 ## Developer Tools
 
 AI-enhanced development tools for the Solana ecosystem.
