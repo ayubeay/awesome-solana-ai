@@ -45,7 +45,7 @@ Educational resources combining AI and Solana development.
 
 Educational resources combining AI and Solana development.
 
-- **[Building Private, Payment-Capable Autonomous AI Agents on Solana](https://your-tutorial-link-here)** — Comprehensive step-by-step tutorial on creating fully autonomous AI agents that operate independently on Solana. Focuses on integrating Ashborn for privacy-protected transactions (ZK Groth16, stealth addresses) and Micropay x402 for seamless on-chain micropayments via agent tool calling. Includes practical code examples, tool definitions for popular agent kits/MCP servers, and real-world workflows for trading, research, or commerce agents. Perfect for developers building agentic AI systems on Solana.
+- **[Private AI Commerce Demo: Shadow Agent Protocol on Solana](https://ashborn-sol.vercel.app/demo/shadow-agent)** — Interactive demo of fully autonomous AI agents conducting private on-chain commerce. Showcases integration of Ashborn (with Light Protocol and ZK Groth16) for stealth/privacy-protected transactions, PrivacyCash for enhanced anonymity, and x402 protocol flows for micropayments. Includes real TypeScript SDK code examples for stealth transfers, shielding funds, and agent-to-agent payments. Ideal for developers exploring agentic AI systems with maximum privacy on Solana.
   - Tools featured: [Ashborn](https://github.com/AlleyBo55/ashborn) | [Micropay x402 Paywall](https://github.com/AlleyBo55/micropay-solana-x402-paywall)
 
 ## Contributing
