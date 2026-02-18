@@ -7,6 +7,9 @@
 ## Contents
 
 - [AI Coding Skills](#ai-coding-skills)
+  - [General](#general)
+  - [DeFi](#defi)
+  - [Infrastructure](#infrastructure)
 - [AI Agents](#ai-agents)
 - [Developer Tools](#developer-tools)
 - [Learning Resources](#learning-resources)
@@ -16,13 +19,38 @@
 
 AI coding skills that enhance developer productivity on Solana.
 
+### General
+
 - [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) - End-to-end Solana development skill for Claude Code. Covers wallet connections, Anchor/Pinocchio programs, client generation, testing with LiteSVM/Mollusk, and security best practices.
 - [solana-anchor-claude-skill](https://github.com/mikemaccana/solana-anchor-claude-skill) - end to end Solana development for Anchor and Solana Kit, focusing on modern, minimal, readable code. Testing is with native JS test runners or LiteSVM.
 - [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
 - [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
 
-  
+### DeFi
+
+- [drift-skill](https://github.com/sendaifun/skills/tree/main/skills/drift) - AI coding skill for Drift Protocol SDK covering perpetual futures, spot trading, and DeFi applications on Solana.
+- [kamino-skill](https://github.com/sendaifun/skills/tree/main/skills/kamino) - AI coding skill for Kamino Finance covering lending, borrowing, liquidity management, leverage trading, and oracle aggregation on Solana.
+- [lulo-skill](https://github.com/sendaifun/skills/tree/main/skills/lulo) - AI coding skill for Lulo, Solana's lending aggregator that routes deposits to the highest-yielding protocols across Kamino, Drift, MarginFi, and Jupiter.
+- [meteora-skill](https://github.com/sendaifun/skills/tree/main/skills/meteora) - AI coding skill for Meteora DeFi SDK covering liquidity pools, AMMs, bonding curves, vaults, and token launches on Solana.
+- [orca-skill](https://github.com/sendaifun/skills/tree/main/skills/orca) - AI coding skill for Orca Whirlpools concentrated liquidity AMM covering swaps, liquidity provision, pool creation, and position management.
+- [pumpfun-skill](https://github.com/sendaifun/skills/tree/main/skills/pumpfun) - AI coding skill for PumpFun Protocol covering token launches, bonding curves, and PumpSwap AMM integrations on Solana.
+- [raydium-skill](https://github.com/sendaifun/skills/tree/main/skills/raydium) - AI coding skill for Raydium Protocol covering CLMM, CPMM, AMM pools, LaunchLab token launches, farming, and Trade API on Solana.
+- [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
+- [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
+- [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
+
+### Infrastructure
+
+- [helius-skill](https://github.com/sendaifun/skills/tree/main/skills/helius) - AI coding skill for Helius RPC and API infrastructure covering DAS API, Enhanced Transactions, Priority Fees, Webhooks, and LaserStream gRPC.
+- [light-protocol-skill](https://github.com/sendaifun/skills/tree/main/skills/light-protocol) - AI coding skill for Light Protocol's ZK Compression covering rent-free compressed tokens and PDAs using zero-knowledge proofs.
+- [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
+- [pyth-skill](https://github.com/sendaifun/skills/tree/main/skills/pyth) - AI coding skill for Pyth Network oracle covering real-time price feeds with confidence intervals and EMA prices on Solana.
+- [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
+- [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
+- [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
+- [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
+
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
@@ -42,6 +70,12 @@ AI-enhanced development tools for the Solana ecosystem.
 - [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers.
 - [AImpact](https://aimpact.dev) - online AI-powered IDE for Web3 apps generation, including generating and deploying (currently to devnet, mainnet coming soon) Solana smart contracts.
 - [SATI (Solana Agent Trust Infrastructure)](https://github.com/cascade-protocol/sati) - ERC-8004 compliant agent identity and reputation with proof-of-participation: agents sign before knowing feedback outcomes.
+- [solana-kit-skill](https://github.com/sendaifun/skills/tree/main/skills/solana-kit) - AI coding skill for @solana/kit, the modern tree-shakeable zero-dependency JavaScript SDK from Anza for Solana.
+- [solana-kit-migration-skill](https://github.com/sendaifun/skills/tree/main/skills/solana-kit-migration) - AI coding skill for migrating from @solana/web3.js v1.x to @solana/kit with API mappings and edge case handling.
+- [pinocchio-skill](https://github.com/sendaifun/skills/tree/main/skills/pinocchio-development) - AI coding skill for Pinocchio, a zero-dependency zero-copy framework for high-performance Solana programs with 88-95% compute unit reduction.
+- [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
+- [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
+- [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
 
 ## Learning Resources
 
